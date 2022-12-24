@@ -1,5 +1,12 @@
 # Employee-Performance-Score-Classification
+
+
+
 A Data Science Project on the employee peformance rating using machine larning techniques like Logistic Regression , kNeighbors , Support Vector Machine Algorithm,Random Forest. Performance rating is the step in the work measurement in which the analyst observes the worker's performance and records a value representing that performance relative to the analyst's concept of standard performance. 
+
+
+
+
 Used Machine learning techniques:
 Logistic Regression : Logistic Regression is easier to implement , interpret and very efficient to train. It is very fast at classifying unknown records. It is useful when variable to be predicted is categorical.
 KNeighbors : KNeighbors Classifier implements classification based on voting by nearest K-Neighbors of target point. KNN classifies the new data points based on the similarity mesure of the earlier stored data points. 
